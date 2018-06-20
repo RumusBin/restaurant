@@ -1,0 +1,4 @@
+kami_api_core:
+  locales: ['en', 'ru']
+  resources:
+       - { name: restaurant, entity: AppBundle\Entity\Restaurant}
